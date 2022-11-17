@@ -539,6 +539,7 @@ body {
   padding: 0.9375rem 2.5rem;
   background-color: #D1A954;
   color: #FFFFFF;
+  cursor:pointer;
 }
 
 ::-webkit-input-placeholder {
